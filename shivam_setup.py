@@ -7,4 +7,4 @@ Created on Wed May  8 16:30:18 2024
 
 from setuptools import setup
 from Cython.Build import cythonize
-setup(extension_modules = cythonize("goli.pyx"))
+setup(extension_modules = cythonize("shivam.pyx"))
